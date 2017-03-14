@@ -9,22 +9,7 @@ Vulnerabilities are commonly identified in large software packages due to their 
 * [Source Code Auditing I](http://vimeo.com/30001189)
 * [Source Code Auditing II](http://vimeo.com/29702192)
 
-## system. Newspaper is written in such a way that it is vulnerable to many different attacks. You should be capable of identifying at least 10 bugs or potential vulnerabilities in this code.
-
-* [Newspaper App](/ctf/vulnerabilities/source_workshop/news_server.c)
-* [Newspaper App Installer](/ctf/vulnerabilities/source_workshop/news_install.sh)
-
-Wireshark, however, is an industry standard network protocol analyzer that has been under continuous development since 1998. Vulnerabilities in this code base are much fewer and far between than in the Newspaper app however many still exist. Take a look at the [wireshark security page](http://wireshark.org/security), find the name of a protocol dissector and see if you can independently discover the vulnerability without looking at the details. Dissectors are located in /epan/dissectors/ folder.
-
-* [Wiresha](http://www.wireshark.org/download/src/all-versions/wireshark-1.8.5.tar.bz2)Other Resources
-
-Make sure you’re intimately familiar with the internals of the languages you target for analysis.  Vulnerabilities are found by auditors who are more familiar with the language and the codebase than the programmers that originally developed it. In some cases, this level of understanding can be achieved simply by paying attaching to optional compiler warnings or through the use of third-party analysis tools that help track down common programming errors. Computer security is tantamount to computer mastery. Without a rigorous understanding of your targets you can never hope to defeat them.
-
-* [Essential C](/ctf/vulnerabilities/references/EssentialC.pdf) - Programming in C primer
-* [TAOSSA Chapter 6: C Language Issues](/ctf/vulnerabilities/references/Dowd_ch06.pdf) - Strongly recommended reading
-* [Integer Overflow](http://en.wikipedia.org/wiki/Integer_overflow)
-* [Wireshark Security](https://wireshark.org/security/) - Examples of lots of vulnerablities
-* [Gera's Insecure Programming by Example](https://github.com/deadbits/InsecureProgramming) - Examples of small vulnerable C programs
+## 
 
 
 
