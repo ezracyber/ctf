@@ -15,7 +15,5 @@
 * [Forensics](forensics/README.md)
 * [Toolkit Creation](toolkits/README.md)
   * [Toolkit Prep](toolkits/prep.md)
-* [Operational Tradecraft](tradecraft/README.md)
-  * [Case Studies](tradecraft/case_studies.md)
-* [Contributing](contrib.md)
+* [Final ](final.md)
 
