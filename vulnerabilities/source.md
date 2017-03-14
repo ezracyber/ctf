@@ -1,4 +1,4 @@
-# Auditing Source Code
+Auditing Source Code
 
 This module is about getting familiar with vulnerabilities that manifest in applications that compile to native code. An accurate and complete understanding of an application written in a compiled language cannot be achieved without learning about how the compiler transforms source to machine code and how processors execute that code. An easy way to gain experience with these transforms is by reverse engineering compiled variants of your own code or of projects with source code available. At the end of this module you will be able to identify vulnerabilities in compiled languages like C and C++.
 
@@ -16,9 +16,7 @@ Vulnerabilities are commonly identified in large software packages due to their 
 
 Wireshark, however, is an industry standard network protocol analyzer that has been under continuous development since 1998. Vulnerabilities in this code base are much fewer and far between than in the Newspaper app however many still exist. Take a look at the [wireshark security page](http://wireshark.org/security), find the name of a protocol dissector and see if you can independently discover the vulnerability without looking at the details. Dissectors are located in /epan/dissectors/ folder.
 
-* [Wireshark 1.8.5](http://www.wireshark.org/download/src/all-versions/wireshark-1.8.5.tar.bz2)
-
-## Other Resources
+* [Wiresha](http://www.wireshark.org/download/src/all-versions/wireshark-1.8.5.tar.bz2)Other Resources
 
 Make sure you’re intimately familiar with the internals of the languages you target for analysis.  Vulnerabilities are found by auditors who are more familiar with the language and the codebase than the programmers that originally developed it. In some cases, this level of understanding can be achieved simply by paying attaching to optional compiler warnings or through the use of third-party analysis tools that help track down common programming errors. Computer security is tantamount to computer mastery. Without a rigorous understanding of your targets you can never hope to defeat them.
 
