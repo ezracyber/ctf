@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [cyberchallenge CTF](intro/README.md)
   * [Participate in CTF](intro/find.md)
-  * [Find a Job](intro/careers.md)
+  * [What to expect](intro/careers.md)
 * [Vulnerability Discovery](vulnerabilities/README.md)
   * [Auditing Source](vulnerabilities/source.md)
   * [Auditing Binaries](vulnerabilities/binary.md)
