@@ -9,11 +9,7 @@ Vulnerabilities are commonly identified in large software packages due to their 
 * [Source Code Auditing I](http://vimeo.com/30001189)
 * [Source Code Auditing II](http://vimeo.com/29702192)
 
-## Workshop
-
-In order to practice your skills, we recommend going through the process of identifying as many vulnerabilities as you can in an intentionally vulnerable toy application and then moving on to a real application and doing the same.
-
-The Newspaper application is a small server written in C that allows authenticated users to read and write articles to a remote file system. Newspaper is written in such a way that it is vulnerable to many different attacks. You should be capable of identifying at least 10 bugs or potential vulnerabilities in this code.
+## system. Newspaper is written in such a way that it is vulnerable to many different attacks. You should be capable of identifying at least 10 bugs or potential vulnerabilities in this code.
 
 * [Newspaper App](/ctf/vulnerabilities/source_workshop/news_server.c)
 * [Newspaper App Installer](/ctf/vulnerabilities/source_workshop/news_install.sh)
