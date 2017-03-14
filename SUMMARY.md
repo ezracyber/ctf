@@ -1,7 +1,8 @@
 # Summary
 
-* [Capture the Flag](intro/README.md)
-  * [Find a CTF](intro/find.md)
+* [Introduction](README.md)
+* [cyberchallenge CTF](intro/README.md)
+  * [Participate in CTF](intro/find.md)
   * [Find a Job](intro/careers.md)
 * [Vulnerability Discovery](vulnerabilities/README.md)
   * [Auditing Source](vulnerabilities/source.md)
@@ -17,3 +18,4 @@
 * [Operational Tradecraft](tradecraft/README.md)
   * [Case Studies](tradecraft/case_studies.md)
 * [Contributing](contrib.md)
+
