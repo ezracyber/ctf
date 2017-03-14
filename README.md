@@ -6,11 +6,11 @@
 
 We’re glad you’re here. We need more people like you.
 
-This program has been sponsored by the Tanzania Communication Regularoty Authority \(TCRA\),to improve the competence of 
+This program has been sponsored by the Tanzania Communication Regularoty Authority \(TCRA\),to improve the competence of
 
-cybersecurity skills among cybersecurity personnels in Tanzania, through cyberchallenge campaign by using Capture the flag \(CTF\) competition style 
+cybersecurity skills among cybersecurity personnels in Tanzania, through cyberchallenge campaign by using Capture the flag \(CTF\) competition style
 
-Take note: that this information has been sourced from [trailofbits](https://trailofbits.github.io) but structured in a more simplifed way to help you to  grasp the idea about CTF easly 
+Take note: that this information has been sourced from [trailofbits](https://trailofbits.github.io) but structured in a more simplifed way to help you to  grasp the idea about CTF easly
 
 If you have any question on how to enroll on this free program, contact us through the details below.
 
@@ -30,7 +30,9 @@ In these chapters, you’ll find everything you need to win your next CTF compet
 
 To make your lives easier, we’ve supplemented each lesson with the Internet’s best supporting reference materials. These come from some of the best minds in the computer security field. Looking ahead, we hope you’ll collaborate to keep this book evolving with the industry.
 
-If you have any question  please find us:
+If you want to register for the competition just send me your name, Email and your Phone no, through contacts below. Or got to [cyberchallenge.co.tz](https://cyberchallenge.co.tz) and register over there.
+
+If you still have any question  please find us:
 
 cyberchallenge@ezracyber.co.tz
 
