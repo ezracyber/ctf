@@ -1,4 +1,4 @@
-Auditing Source Code
+**Auditing Source Code**
 
 This module is about getting familiar with vulnerabilities that manifest in applications that compile to native code. An accurate and complete understanding of an application written in a compiled language cannot be achieved without learning about how the compiler transforms source to machine code and how processors execute that code. An easy way to gain experience with these transforms is by reverse engineering compiled variants of your own code or of projects with source code available. At the end of this module you will be able to identify vulnerabilities in compiled languages like C and C++.
 
