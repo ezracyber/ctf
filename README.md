@@ -6,15 +6,13 @@
 
 We’re glad you’re here. We need more people like you.
 
-This program has been sponsored by the Tanzania Communication Regularoty Authority \(TCRA\),to improve the competence of
-
-cybersecurity skills among cybersecurity personnels in Tanzania, through cyberchallenge campaign by using Capture the flag \(CTF\) competition style
+This program has been sponsored by the Tanzania Communication Regularoty Authority \(TCRA\) to improve competence level of cybersecurity skills among cybersecurity personnels in Tanzania
 
 Take note: that this information has been sourced from [trailofbits](https://trailofbits.github.io) but structured in a more simplifed way to help you to  grasp the idea about CTF easly
 
 If you have any question on how to enroll on this free program, contact us through the details below.
 
-If you’re going to make a living in defense, you have to think like the offense.
+In a cyber security industry if you’re going to make a living in defense, you have to think like the offense.
 
 So, learn to win at Capture The Flag \(CTF\). These competitions distill major disciplines of professional computer security work into short, objectively measurable exercises. The focus areas that CTF competitions tend to measure are vulnerability discovery, exploit creation, toolkit creation, and operational tradecraft.
 
